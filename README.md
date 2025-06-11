@@ -1,5 +1,8 @@
 A Node.js microservice that accepts file uploads and returns metadata about the uploaded file (name, type, and size). Built with Express.js and multer middleware for handling file uploads.
 
+![Screenshot (78)](https://github.com/user-attachments/assets/7034a5b8-2cd1-4bd7-b8ba-ef00b0ac1b52)
+![Screenshot (79)](https://github.com/user-attachments/assets/135d0d74-3df3-40ee-b535-1dfd01fbef4c)
+
 # File Metadata Microservice
 
 This project is part of the [freeCodeCamp Back-End Development and APIs Certification](https://www.freecodecamp.org/learn). It is a backend application that allows users to upload a file and receive its metadata in response.
